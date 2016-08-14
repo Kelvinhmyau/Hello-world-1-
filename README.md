@@ -1,1 +1,3 @@
-# Hello-world-1-
+# First time to Git Hub
+Wanna learn so much here
+Cheers!
